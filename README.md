@@ -1,9 +1,14 @@
-React-Ath0
+React-Auth0
+
+This is a test project for React app with Auth0. The MongoBD is connected through Auth0.
+
 
 References: 
 
 https://www.youtube.com/watch?v=J5wsRkAUEEM
+
 https://auth0.com/blog/complete-guide-to-react-user-authentication/
+
 https://auth0.com/blog/connecting-auth0-to-mongodb/
 
 
